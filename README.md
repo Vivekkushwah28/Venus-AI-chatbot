@@ -1,4 +1,4 @@
-# Venus-AI-chatbot
+# Open-AI-chatbot
 
 Based on the provided code and the information from the search results, here's a README documentation for your GitHub repository:
 
