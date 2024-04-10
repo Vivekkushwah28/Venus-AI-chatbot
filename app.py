@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 # Initialize the OpenAI client with your API key
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="Enter your Api_key")
 
 def generate_response(prompt):
     completion = client.chat.completions.create(
